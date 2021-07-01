@@ -1,0 +1,12 @@
+{
+  "name" : "Học kỳ 4 - Frontend 2",
+  "authors" : [
+    {
+      "name" : "Võ Đăng Vĩnh",
+      "email" : "01686228222vinh@gmail.com"
+    }
+  ],
+  "require" : {
+    "vdv/hocky4" : "1.0"
+  }
+}
